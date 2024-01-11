@@ -1,0 +1,18 @@
+# Opensource
+## Contribution
+- repo: Contribution
+  lists:
+    - task: DataHub<span>&#58;</span> docs(<a href="https://github.com/datahub-project/datahub/pull/7045" target="_blank" style="text-decoration:none; border-bottom:none;">#7045</a>, <a href="https://github.com/datahub-project/datahub/pull/6870" target="_blank" style="text-decoration:none; border-bottom:none;">#6870</a>, <a href="https://github.com/datahub-project/datahub/pull/6209" target="_blank" style="text-decoration:none; border-bottom:none;">#6209</a>)
+    - task: Meltano<span>&#58;</span> docs(<a href="https://github.com/datahub-project/datahub/pull/6209" target="_blank" style="text-decoration:none; border-bottom:none;">#6209</a>), fix(<a href="https://github.com/meltano/meltano/issues/7187" target="_blank" style="text-decoration:none; border-bottom:none;">#7187</a>)
+    - task: Great Expectations<span>&#58;</span> docs(<a href="https://github.com/great-expectations/great_expectations/pull/6646" target="_blank" style="text-decoration:none; border-bottom:none;">#6646</a>)
+## Side Project
+- repo: Side Project
+  lists:
+#    - task: <a href="https://jx2lee.netlify.app/" target="_blank">Jx2lee Digital Garden</a><span>&#58;</span> 업무 중 해결한 문제, 소개하고 싶은 기술들을 공유하는 지식창고
+#    - task: <a href="https://github.com/jx2lee/DoorayClient" target="_blank">DoorayClient</a><span>&#58;</span> 파이썬 requests 패키지를 이용한 Dooray API 클라이언트
+#    - task: <a href="https://github.com/jx2lee/nhncloud-instctl">nhncloud-instctl</a><span>&#58;</span> go 언어를 이용한 NHN Cloud 인스턴스 CLI
+#    - task: <a href="https://github.com/jx2lee/Kubeflower">Kubeflower</a><span>&#58;</span> k8s 에 배포하기 위한 kubeflow install script with shell
+    - task: <a href="https://jx2lee.netlify.app/" target="_blank" style="text-decoration:none; border-bottom:none;">Jx2lee Digital Garden</a><span>&#58;</span> A knowledge store share problems on work and techniques.
+    - task: <a href="https://github.com/jx2lee/DoorayClient" target="_blank" style="text-decoration:none; border-bottom:none;">DoorayClient</a><span>&#58;</span> <a href="https://helpdesk.dooray.com/share/pages/9wWo-xwiR66BO5LGshgVTg/2939987647631384419" target="_blank" style="text-decoration:none; border-bottom:none;">Dooray API</a> client using Python.
+    - task: <a href="https://github.com/jx2lee/nhncloud-instctl" style="text-decoration:none; border-bottom:none;">nhncloud-instctl</a><span>&#58;</span> NHN Cloud Instance CLI using golang.
+    - task: <a href="https://github.com/jx2lee/Kubeflower" style="text-decoration:none; border-bottom:none;">Kubeflower</a><span>&#58;</span> kubeflow installation script with shell.

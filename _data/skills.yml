@@ -1,0 +1,20 @@
+# Skills
+- skill: Data
+  details:
+    - detail: BigQuery
+    - detail: MySQL, postgreSQL
+    - detail: ElasticSearch, MongoDB, HDFS
+    - detail: Kafka
+    - detail: Airflow
+    - detail: dbt, Airbyte
+    - detail: Datahub, Lightdash
+- skill: Backend
+  details:
+    - detail: Python, Java
+    - detail: Flask, Spring Boot, Spring MVC
+    - detail: unittest, JUnit
+- skill: DevOps
+  details:
+    - detail: Jenkins, ArgoCD/Helm
+    - detail: Git, Atlassian
+    - detail: Docker/Kubernetes

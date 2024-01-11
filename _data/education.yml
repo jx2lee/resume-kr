@@ -1,0 +1,25 @@
+# Degree
+- degree: Master of Arts in DataScience
+  uni: Kookmin University
+  year: 2016 &mdash; 2018
+  awards:
+    - award: 4.5/4.5
+    - award: <a href="http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=51909e84bd4b8282ffe0bdc3ef48d419" target="_blank" style="text-decoration:none; border-bottom:none;">Sentiment Analysis based on Korean using Recurrent Neural Network<span>&#58;</span> focused on Online Movie Review</a>
+    - award: <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07282148" target="_blank" style="text-decoration:none; border-bottom:none;">Sentiment Analysis Using Deep Learning Model based on Phoneme-level Korean</a>
+    - award: <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07189914" target="_blank" style="text-decoration:none; border-bottom:none;">Korean Sentence Generation Using Phoneme-Level LSTM Language Model</a>
+    - award: <a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE07189911" target="_blank" style="text-decoration:none; border-bottom:none;">Comparison of Deep Learning Frameworks<span>&#58;</span> About Theano, Tensorflow, and Cognitive Toolkit</a>
+  #summary: 데이터 분석 & 모델링 경험
+
+- degree: Bachelor of Science in Math
+  uni: Kookmin University
+  year: 2010 &mdash; 2016
+  awards:
+    - award: 3.45/4.5
+    - award: Minored in business administration
+  #summary: If you had any meaningful roles at college, feel free to write about them here
+
+#- degree: High School Diploma
+#  uni: Jungsan High School, gyoung-kido
+#  year: 2007
+  #award: Most likely to succeed
+  #summary: You can choose to have either a single or multiple awards
