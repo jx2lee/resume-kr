@@ -5,7 +5,6 @@
     - task: Meltano<span>&#58;</span> docs(<a href="https://github.com/datahub-project/datahub/pull/6209" target="_blank" style="text-decoration:none; border-bottom:none;">#6209</a>), fix(<a href="https://github.com/meltano/meltano/issues/7187" target="_blank" style="text-decoration:none; border-bottom:none;">#7187</a>)
     - task: Great Expectations<span>&#58;</span> docs(<a href="https://github.com/great-expectations/great_expectations/pull/6646" target="_blank" style="text-decoration:none; border-bottom:none;">#6646</a>)
     - task: Kafka Connect BigQuery Connector<span>&#58;</span> feat(<a href="https://github.com/confluentinc/kafka-connect-bigquery/pull/361" target="_blank" style="text-decoration:none; border-bottom:none;">#361</a>)
-    - task:
 #- repo: 사이드 프로젝트
 #  lists:
 #    - task: <a href="https://jx2lee.netlify.app/" target="_blank" style="text-decoration:none; border-bottom:none;">Jx2lee Digital Garden</a><span>&#58;</span> A knowledge store share problems on work and techniques.
