@@ -6,9 +6,9 @@
   summary:
     코인원은 국내 5대 가상자산 거래소 중 하나로, 고객자산의 안전을 최우선으로 하며 편리하고 안정적인 서비스를 제공합니다.
     <ul class="resume-item-list">
-      <li>데이터 파이프라인 구축 (배치/실시간)</li>
+      <li>배치/실시간 데이터 파이프라인 구축</li>
       <li>self-serve-data 환경을 위한 오픈소스 도구 제공 및 배포</li>
-      <li>데이터 프로덕트 개발</li>
+      <li>Data Product & Data as a product 개발</li>
     </ul>
 
 ## NHN
@@ -19,7 +19,7 @@
     NHN 엔터프라이즈는 고성능 & 안정성을 제공하는 국내 클라우드 NHN Cloud 를 운영합니다.
     <ul class="resume-item-list">
       <li>로그 데이터 플랫폼인 <a href="https://www.nhncloud.com/kr/service/data-analytics/log-crash-search" target="_blank" style="text-decoration:none; border-bottom:none;">Log & Crash Search</a> 운영</li>
-      <li>NHN Cloud 서비스 배포 및 관리</li>
+      <li>NHN Cloud 서비스 배포 및 배포 파이프라인 관리</li>
     </ul>
 
 ## Tmax (TmaxData & TmaxBI)
@@ -29,7 +29,7 @@
   summary:
     티맥스는 ERP, AI, BIG DATA 핵심 기술을 기반으로 혁신적인 경영을 위한 비즈니스 솔루션을 제공합니다.
     <ul class="resume-item-list">
-      <li><a href="https://www.tmax.co.kr/hyperdata" target="_blank" style="text-decoration:none; border-bottom:none;">데이터 제품 기술지원</a></li>
+      <li><a href="https://www.tmax.co.kr/hyperdata" target="_blank" style="text-decoration:none; border-bottom:none;">데이터 제품</a> 기술지원</li>
       <li>POC(Proof Of Concept) & 프로젝트 지원</li>
       <li>프리세일즈</li>
     </ul>
