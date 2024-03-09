@@ -1,10 +1,7 @@
 # Associations
-## BOAZ
 - organization: BOAZ
   role: member
   year: 2017 &mdash; 2018
   url: https://www.instagram.com/boaz_bigdata/
-  #summary: BOAZ 동아리 8기 멤버로 1년간 활동했다.
-  #         동아리 결과물로는 번역 모델을 이용해 이별 가사를 생성하는 모델을 개발하고 <a href="https://youtu.be/zWZqiIpWxhU" target="_blank">발표</a>했다.
-  summary: member of the 8th BOAZ club for one year.
-           I developed a model and <a href="https://youtu.be/zWZqiIpWxhU" target="_blank" style="text-decoration:none; border-bottom:none;">presented a model</a> to generate breakup lyrics using translation model.
+  summary: BOAZ (데이터 동아리) 8기 멤버로 1년간 활동했습니다.
+           산출물로 번역 모델을 이용해 이별 가사를 생성하는 모델을 개발하고 <a href="https://youtu.be/zWZqiIpWxhU" target="_target" style="text-decoration:none; border-bottom:none;">발표</a>했습니다.
