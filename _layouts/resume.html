@@ -70,6 +70,7 @@
       {% if site.resume_section_projects %}
       <!-- begin Projects -->
       <section class="content-section">
+
         <header class="section-header">
           <h2>Projects</h2>
         </header>
@@ -80,11 +81,48 @@
           <h3 class="resume-item-title" itemprop="name">{% if project.url %}<a href="{{ project.url }}" itemprop="url">{{ project.project }}</a>{% else %}{{ project.project }}{% endif %}</h3>
           <h4 class="resume-item-details" itemprop="description">{{ project.role }}  &bull; {{ project.duration }}</h4>
           <p class="resume-item-copy">{{ project.description }}</p>
-          <ul class="resume-item-list">
-            {% for tb in project.troubleshoots %}
-            <li>{{ tb }}</li>
+          {% if project.roles %}<ul class="resume-item-list">
+            <li>역할</li>
+            <ul>
+            {% for role in project.roles %}
+                <li>{{ role }}</li>
             {% endfor %}
-          </ul>
+            </ul>
+          </ul>{% endif %}
+          {% if project.objectives %}<ul class="resume-item-list">
+            <li>목표</li>
+            <ul>
+              {% for objective in project.objectives %}
+              <li>{{ objective }}</li>
+              {% endfor %}
+            </ul>
+          </ul>{% endif %}
+          {% if project.dones %}<ul class="resume-item-list">
+            <li>잘하고 아쉬운 점</li>
+            <ul>
+              {% for k in project.dones %}
+              <li>{{ k.done }}</li>
+              <ul>
+                {% for item in k.results %}
+                <li>{{ item.result }}</li>
+                {% endfor %}
+              </ul>
+              {% endfor %}
+            </ul>
+          </ul>{% endif %}
+          {% if project.link %}<ul class="resume-item-list">
+            <li>더보기</li>
+            <ul>
+              {% for k in project.link %}
+              <li>{{ k }}</li>
+              <ul>
+                {% for item in k.results %}
+                <li>{{ item.result }}</li>
+                {% endfor %}
+              </ul>
+              {% endfor %}
+            </ul>
+          </ul>{% endif %}
         </div>
         {% endfor %}
 
