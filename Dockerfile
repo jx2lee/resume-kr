@@ -1,11 +1,11 @@
-FROM ruby:2.7
+FROM ruby:2.6
 
 WORKDIR /home/app
 
 COPY Gemfile* ./
-
-RUN bundle install
-
 COPY . .
 
-CMD [ "bundle", "exec", "jekyll", "serve" ]
+RUN bundle install
+VOLUME ["/home/app"]
+
+ENTRYPOINT [ "bundle", "exec", "jekyll", "serve" ]

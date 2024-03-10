@@ -1,20 +1,17 @@
 # Skills
 - skill: Data
   details:
-    - detail: BigQuery
-    - detail: MySQL, postgreSQL
-    - detail: ElasticSearch, MongoDB, HDFS
-    - detail: Kafka
-    - detail: Airflow
-    - detail: dbt, Airbyte
+    - detail: BigQuery, MySQL, postgreSQL
+    - detail: ElasticSearch, MongoDB, Hadoop
+    - detail: Kafka, Kafka Connect
+    - detail: Airflow, dbt, Airbyte
     - detail: Datahub, Lightdash
 - skill: Backend
   details:
     - detail: Python, Java
-    - detail: Flask, Spring Boot, Spring MVC
-    - detail: unittest, JUnit
+    - detail: FastAPI, Spring MVC
 - skill: DevOps
   details:
-    - detail: Jenkins, ArgoCD/Helm
-    - detail: Git, Atlassian
+    - detail: ArgoCD/Helm, Jenkins
+    - detail: Git, Atlassian (Stash)
     - detail: Docker/Kubernetes

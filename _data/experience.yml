@@ -1,46 +1,35 @@
 # Experience
 ## Coinone
 - company: <a href="https://coinone.co.kr" target="_target" style="text-decoration:none; border-bottom:none;">Coinone</a>
-  position: Data Engineer
-  duration: Sep, 2022 &mdash; In Office
-  summary: Coinone is One of South Korea's premier cryptocurrency exchanges, where I specialize in managing and optimizing data for innovative solutions in the virtual asset trading industry.     <ul class="resume-item-list"><li>Built Data Pipelines</li><li>Built and deployed Open Source</li><li>Provided Data Platform</li></ul>
-#    <ul class="resume-item-list">
-#      <li>
-#        Built Data Pipelines
-#      </li>
-#      <li>
-#        Built and deployed Open Source
-#      </li>
-#      <li>
-#        Provided Data Platform
-#      </li>
-#    </ul>
+  position: 데이터 엔지니어
+  duration: 2022년 9월 &mdash; now
+  summary:
+    코인원은 국내 5대 가상자산 거래소 중 하나로, 고객자산의 안전을 최우선으로 하며 편리하고 안정적인 서비스를 제공합니다.
+    <ul class="resume-item-list">
+      <li>배치/실시간 데이터 파이프라인 구축</li>
+      <li>self-serve-data 환경을 위한 오픈소스 도구 제공 및 배포</li>
+      <li>Data Product & Data as a product 개발</li>
+    </ul>
 
 ## NHN
 - company: <a href="https://www.nhnenterprise.com" target="_target" style="text-decoration:none; border-bottom:none;">NHN Enterprise</a>
-  position: Cloud Operation Engineer
-  duration: Nov, 2020 &mdash; Sept, 2022
+  position: 클라우드 운영 엔지니어
+  duration: 2020년 11월 &mdash; 2022년 9월
   summary:
-    NHN Enterprise, a leading public cloud vendor in South Korea, specializing in managing and maintaining cloud infrastructure to ensure optimal performance and reliability.    <ul class="resume-item-list"><li>Operated DataPlatform Service, <a href="https://www.nhncloud.com/kr/service/data-analytics/log-crash-search" target="_blank" style="text-decoration:none; border-bottom:none;">Log & Crash Search</a><li>deployed NHN Cloud service and built & managed CI/CD(Jenkins)</li></ul>
-#    <ul class="resume-item-list">
-#      <li>
-#        Operated DataPlatform Service, <a href="https://www.nhncloud.com/kr/service/data-analytics/log-crash-search" target="_blank" style="text-decoration:none; border-bottom:none;">Log & Crash Search</a>
-#      <li>
-#        deployed NHN Cloud service and built & managed CI/CD(Jenkins)
-#      </li>
-#    </ul>
+    NHN 엔터프라이즈는 고성능 & 안정성을 제공하는 국내 클라우드 NHN Cloud 를 운영합니다.
+    <ul class="resume-item-list">
+      <li>로그 데이터 플랫폼인 <a href="https://www.nhncloud.com/kr/service/data-analytics/log-crash-search" target="_blank" style="text-decoration:none; border-bottom:none;">Log & Crash Search</a> 운영</li>
+      <li>NHN Cloud 서비스 배포 및 배포 파이프라인 관리</li>
+    </ul>
 
 ## Tmax (TmaxData & TmaxBI)
 - company: <a href="https://www.tmax.co.kr/tmaxbi" target="_target" style="text-decoration:none; border-bottom:none;" >TmaxData & TmaxBI</a>
-  position: Product Technical Engineer
-  duration: Oct, 2018  &mdash; Nov, 2020
+  position: 기술지원 엔지니어
+  duration: 2018년 8월  &mdash; 2020년 11월
   summary:
-    TmaxData, a prominent South Korean native software provider, where I served as a Support Engineer, offering technical assistance and solutions to enhance customer experiences with our software products.    <ul class="resume-item-list"><li>Support <a href="https://www.tmax.co.kr/hyperdata" target="_blank" style="text-decoration:none; border-bottom:none;">bigdata product</a>, POC & Project</li><li>Pre-sales</li></ul>
-#    <ul class="resume-item-list">
-#      <li>
-#        Support <a href="https://www.tmax.co.kr/hyperdata" target="_blank" style="text-decoration:none; border-bottom:none;">bigdata product</a>, POC & Project
-#      </li>
-#      <li>
-#        Pre-sales
-#      </li>
-#    </ul>
+    티맥스는 ERP, AI, BIG DATA 핵심 기술을 기반으로 혁신적인 경영을 위한 비즈니스 솔루션을 제공합니다.
+    <ul class="resume-item-list">
+      <li><a href="https://www.tmax.co.kr/hyperdata" target="_blank" style="text-decoration:none; border-bottom:none;">데이터 제품</a> 기술지원</li>
+      <li>POC(Proof Of Concept) & 프로젝트 지원</li>
+      <li>프리세일즈</li>
+    </ul>
