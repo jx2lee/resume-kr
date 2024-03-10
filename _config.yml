@@ -10,7 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Jaejun Lee"
+resume_name:                    "JaeJun Lee"
 resume_title:                   "About"
 
 # used for the contact button in _layouts/resume.html
